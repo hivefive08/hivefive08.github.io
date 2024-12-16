@@ -1,2 +1,1 @@
-# hivefive08.github.io
-Repository for CS506
+Website for my portfolio
